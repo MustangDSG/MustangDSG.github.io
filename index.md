@@ -1,4 +1,3 @@
-__8-Bit Tea Party__
+**[Твич](https://www.twitch.tv/8bitteaparty)**
 
-
-_Восьмибитное чаепитие начинается тут_
+**[Ютуб](https://www.youtube.com/channel/UCynyB3OjqPinwmZJK5wfhaw/)**
