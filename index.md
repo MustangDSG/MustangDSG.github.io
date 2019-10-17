@@ -1,3 +1,9 @@
-**[Твич](https://www.twitch.tv/8bitteaparty)**
+---
+layout: default
+---
 
-**[Ютуб](https://www.youtube.com/channel/UCynyB3OjqPinwmZJK5wfhaw/)**
+# Места встречи
+
+* [Твич](https://www.twitch.tv/8bitteaparty)
+
+* [Ютуб](https://www.youtube.com/channel/UCynyB3OjqPinwmZJK5wfhaw/)**
