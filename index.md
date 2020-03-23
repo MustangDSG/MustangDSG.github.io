@@ -7,3 +7,7 @@ layout: default
 * [Twitch](https://www.twitch.tv/8bitteaparty/)
 * [BitsCode](https://www.twitch.tv/bitscode/)
 * [YouTube](https://www.youtube.com/channel/UCynyB3OjqPinwmZJK5wfhaw/)
+
+##
+
+**[Наша Вики](https://github.com/dreamy-cat/8-Bit-Tea-Party/wiki)**
